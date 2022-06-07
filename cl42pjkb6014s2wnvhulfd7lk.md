@@ -99,7 +99,7 @@ This is because their is no value in the container just like when you try to rea
 
 - A variable can be initialized or assigned a value as follows: ```let car = "myNewCar"```
 
-- Trying to use a variable before assigning it a avalue will make JS to through an ```undfined``` error
+- Uninitialized variables are assigned a value of  ```undefined``` 
 
 In this blog, we have looked at what  variable is, how to declare one and use it in JavaScript. As you might have noticed, we used only one variable "myNewCar" and you might be wondering what else you can store in JS variables. Well, there are many [types of variables](Link).
 
