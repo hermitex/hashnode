@@ -25,8 +25,8 @@ a = a - b;  // b = 12 - 5 = 7
 Let us see what our variables have by printing them out.
 
 ```
-console.log(a);
-console.log(b);
+console.log(a); // 7
+console.log(b); // 5
 ``` 
 
 This is how the whole code should look like:
@@ -35,8 +35,8 @@ This is how the whole code should look like:
 let a = 5;
 let b = 7;
 console.log('The value of a and b before swapping.');
-console.log('The value of a is, ' a);
-console.log('The value of b is, ' b);
+console.log('The value of a is, ' a); // The value of a is 5
+console.log('The value of b is, ' b); // The value of b is 7
 // Get the sum
 a = a + b; // a = 12
 // Reasign b with the value of a
@@ -44,8 +44,8 @@ b = a - b;  // b = 12 - 7 = 5
 // Reasign a with the value of b
 a = a - b;  // b = 12 - 5 = 7
 console.log('The value of a and b after swapping.');
-console.log('The value of a is, ' a);
-console.log('The value of b is, ' b);
+console.log('The value of a is, ' a); // The value of a is 7
+console.log('The value of b is, ' b); // The value of b is 5
 ``` 
 
 That is it! We have swapped our values using arithmetic operations.
