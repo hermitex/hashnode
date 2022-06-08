@@ -1,6 +1,6 @@
 ## What are the Types of Functions in JavaScript?
 
-## What is a Function
+## What is a Function?
 A function is a block of reusable code that performs a specific task.
 
 There are 3 types of functions in JavaScript:
